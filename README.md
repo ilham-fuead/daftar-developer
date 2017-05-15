@@ -6,7 +6,7 @@ Daftar Developer
 [![Kabupaten](https://img.shields.io/badge/kabupaten-ponorogo-blue.svg)](https://id.wikipedia.org/wiki/Ponorogo)
 
 Daftar anggota Ponorogo Developers dan Para Programmer di Ponorogo.<br>
-Ini bertujuan untuk menginspirasi apa yang telah dilakukan oleh masyarakat Ponorogo, menambah koneksi ke developer-developer di daerah Ponorogo, dan semoga bisa memberi dorongan untuk berkontribusi dalam Open-source software.
+Ini bertujuan untuk menginspirasi apa yang telah dilakukan oleh masyarakat Ponorogo, menambah koneksi ke developer-developer lain di daerah Ponorogo, dan semoga bisa memberi dorongan untuk berkontribusi dalam Open-source software.
 
 Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
