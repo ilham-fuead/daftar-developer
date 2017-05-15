@@ -5,7 +5,10 @@ Daftar Developer
 [![TravisCI](https://api.travis-ci.org/ponorogodev/daftar-developer.svg)](https://travis-ci.org/ponorogodev/daftar-developer)
 [![Kabupaten](https://img.shields.io/badge/kabupaten-ponorogo-blue.svg)](#)
 
-Daftar anggota Ponorogo Developers dan Para Programmer di Ponorogo.
+Daftar anggota Ponorogo Developers dan Para Programmer di Ponorogo.<br>
+Ini bertujuan untuk menginspirasi apa yang telah dilakukan oleh masyarakat Ponorogo, menambah koneksi ke developer-developer di daerah Ponorogo, dan semoga bisa memberi dorongan untuk berkontribusi dalam Open-source software.
+
+Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 | Nama | Foto | Rincian | Skill | Kontak |
 |------|------|---------|-------|--------|
@@ -15,4 +18,4 @@ Daftar anggota Ponorogo Developers dan Para Programmer di Ponorogo.
 | Disgan Adi | ![foto](https://avatars.githubusercontent.com/u/28666505?s=75) | Web Developer | HTML & CSS | [GitHub](https://github.com/izgan) |
 
 ## Kontribusi
-Ingin menambahkan datamu? Baca [panduan kontribusi](CONTRIBUTING.md)
+Ingin menambahkan daftar? Baca [panduan kontribusi](CONTRIBUTING.md).
