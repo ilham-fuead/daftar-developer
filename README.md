@@ -24,8 +24,8 @@ Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome
 | Andri Ma'ruf | ![foto](https://avatars.githubusercontent.com/u/4670147?s=75) | Web Developer | PHP & JavaScript | [GitHub](https://github.com/andrimaruf) · [Website](http://andrimaruf.com/) |
 | Eko Prasetyo | ![foto](https://avatars.githubusercontent.com/u/24540408?s=75) | I'm programmer, I have no life | PHP | [GitHub](https://github.com/ekopradesga) · [Website](https://www.pradesga.com/) |
 | Disgan Adi | ![foto](https://avatars.githubusercontent.com/u/28666505?s=75) | Web Developer | HTML & CSS | [GitHub](https://github.com/izgan) |
-| Dwi Hujianto | ![foto](https://avatars0.githubusercontent.com/u/10525981?s=75) | Fullstack Developer | PHP,NodeJs | [GitHub](https://github.com/hujianto) · [Website](https://dwihujianto.com/) |
-| Bayu Cakra | ![foto](https://avatars.githubusercontent.com/u/13051657?s=75) | Web Developer | PHP | [Github](https://github.com/bayucakra20) · [Facebook](https://www.facebook.com/bayucakraka) |
+| Dwi Hujianto | ![foto](https://avatars0.githubusercontent.com/u/10525981?s=75) | Fullstack Developer | PHP & Node.js | [GitHub](https://github.com/hujianto) · [Website](https://dwihujianto.com/) |
+| Bayu Cakra | ![foto](https://avatars.githubusercontent.com/u/13051657?s=75) | Web Developer | PHP | [GitHub](https://github.com/bayucakra20) · [Facebook](https://www.facebook.com/bayucakraka) |
 
 ## Kontribusi
 Ingin menambahkan daftar? Baca [panduan kontribusi](CONTRIBUTING.md).
