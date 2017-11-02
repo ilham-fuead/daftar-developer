@@ -26,6 +26,7 @@ Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome
 | Disgan Adi | ![foto](https://avatars.githubusercontent.com/u/28666505?s=75) | Web Developer | HTML & CSS | [GitHub](https://github.com/izgan) |
 | Dwi Hujianto | ![foto](https://avatars0.githubusercontent.com/u/10525981?s=75) | Fullstack Developer | PHP & Node.js | [GitHub](https://github.com/hujianto) · [Website](https://dwihujianto.com/) |
 | Bayu Cakra | ![foto](https://avatars.githubusercontent.com/u/13051657?s=75) | Web Developer | PHP | [GitHub](https://github.com/bayucakra20) · [Facebook](https://www.facebook.com/bayucakraka) |
+| Ilham Fuead | ![foto](https://avatars.githubusercontent.com/u/19145433?s=75) | Fullstack Developer | PHP, Angular.js & React.js | [GitHub](https://github.com/ilham-fuead) · [ZCE](http://www.zend.com/en/yellow-pages/ZEND028169) |
 
 ## Kontribusi
 Ingin menambahkan daftar? Baca [panduan kontribusi](CONTRIBUTING.md).
